@@ -1,5 +1,5 @@
-# BRUTE FORCE
-# O(n^2)
+// BRUTE FORCE
+// O(n^2)
 class Solution {
     public int subarraySum(int[] nums, int k) {
         int count = 0;
