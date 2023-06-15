@@ -1,3 +1,4 @@
+// O(n)
 class Solution {
     public int maxSubArray(int[] nums) {
         if(nums.length == 0 || nums == null)
