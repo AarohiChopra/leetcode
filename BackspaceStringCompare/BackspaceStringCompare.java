@@ -1,3 +1,4 @@
+// this uses stack
 class Solution {
     public boolean backspaceCompare(String s, String t) {
         Stack<Character> s1 = new Stack<>();
